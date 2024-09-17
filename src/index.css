@@ -11,3 +11,14 @@
     flex-direction: column;
     justify-content: center;
 }
+
+div {
+    display: flex;
+    flex-direction: row;
+    margin-top: 10px;
+    margin-left: 40px;
+}
+
+body {
+    background-color: #CCCCCC;
+}

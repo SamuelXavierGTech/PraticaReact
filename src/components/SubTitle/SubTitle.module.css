@@ -1,0 +1,17 @@
+.container {
+    color: white;
+    width: fit-content;
+    height: 35px;
+    margin-left: 80px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    font-size: 18px;
+    font-weight: normal;
+    padding-left: 10px;
+    padding-right: 10px;
+}
